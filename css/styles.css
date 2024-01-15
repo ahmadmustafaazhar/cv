@@ -1,0 +1,11 @@
+body {background-color:#66BFBF;}
+hr {border-style:none;
+        width: 50px;
+        border-top: dotted; 
+        border-top-width: 5px;
+        border-top-color: brown;
+    }
+img {height: 150px;}
+table {border-style: dotted;}
+h1 {color: black;}
+h3 {color:red;}
